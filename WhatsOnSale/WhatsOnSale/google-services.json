@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "163004189874",
+    "firebase_url": "https://whatsonsale-795d7.firebaseio.com",
+    "project_id": "whatsonsale-795d7",
+    "storage_bucket": "whatsonsale-795d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163004189874:android:801990ab367d3a77",
+        "android_client_info": {
+          "package_name": "whatsonsale.whatsonsale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOUUGJYaER-lyfKHSBZv0DYoxD-f6XqnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
