@@ -1,2 +1,0 @@
-# WhatsOnSale
-WhatsOnSale Xamarin Project
